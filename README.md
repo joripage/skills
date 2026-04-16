@@ -66,4 +66,4 @@ Place reference files in a `references/` subfolder to keep the main context clea
 
 ## License
 
-Internal use.
+This project is licensed under the [MIT License](LICENSE).
